@@ -1,4 +1,4 @@
-# OgrenciNotMvc
+# STUDENT GRADE SYSTEM WITH MVC (MVC İLE ÖĞRENCİ NOT SİSTEMİ)
 
 ![OGRENCİ LİSTESİ](https://user-images.githubusercontent.com/47866774/112176410-2186aa80-8c09-11eb-8a7c-1fd4d5bdf8d4.png)
 ![DERSLER](https://user-images.githubusercontent.com/47866774/112176426-251a3180-8c09-11eb-86c9-0c813bb6c079.png)
