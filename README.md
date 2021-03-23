@@ -1,9 +1,6 @@
 # STUDENT GRADE SYSTEM WITH MVC (MVC İLE ÖĞRENCİ NOT SİSTEMİ)
 
 
-
-
-
 # STUDENT LIST (ÖĞRENCİ LİSTESİ)
 
 ![OGRENCİ LİSTESİ](https://user-images.githubusercontent.com/47866774/112176410-2186aa80-8c09-11eb-8a7c-1fd4d5bdf8d4.png)
